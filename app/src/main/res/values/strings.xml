@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyZodiac</string>
+    <string name="label_fecha">Introduzca su fecha de nacimiento:</string>
+    <string name="fecha_error">La fecha introducida es incorrecta</string>
+
+</resources>
